@@ -4,6 +4,8 @@ Author: Hanne Aydinli
 UCID: hna22
 Course: IS117
 
+This tutorial explains how to use Git, WebStorm, and GitHub for beginners.
+
 
 PART 1: Directions on Using Webstorm.
 
@@ -75,7 +77,7 @@ STEP 7: Pull Changes
 
 Pull downloads updates from GitHub to your local computer.
 
------------------------------------------------------------
+-------------------------------------------------------------
 
 PART 2: Glossary to include these terms in a bulleted list.
 
@@ -104,7 +106,7 @@ PART 2: Glossary to include these terms in a bulleted list.
 
  **Repository** – A storage location for project files and version history.
 
--------------------------------------------------------------
+--------------------------------------------------------------
 
 References
 

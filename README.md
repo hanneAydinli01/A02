@@ -88,7 +88,7 @@ PART 2: Glossary to include these terms in a bulleted list.
 
  **Commit** – A saved change in a Git project with a message explaining what was changed.
 
- **Fetch** – A command that checks for updates from the remote repository without changing local files.
+ **Fetch** – A Git command that retrieves updates from a remote repository.
 
  **GIT** – A version control system used to track changes in source code.
 
